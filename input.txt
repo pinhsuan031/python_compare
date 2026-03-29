@@ -1,1 +1,8 @@
-PYD907_read.txt
+3
+The quick brown fox jumps over the lazy dog
+Learning Python is funny
+Pack my box with five dozen liquor jugs
+
+2
+Quick fox jumps nightly above wizard
+These can be weapons of terror
