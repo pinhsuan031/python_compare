@@ -48,6 +48,7 @@ print( f'{x}/{y} + {m}/{n} = {p / gcd:.0f}/{ q / gcd:.0f}' )
 
 # 更快的解法: math.gcd() 是取得最大公因數的函式
 # gcd = Greatest Common Divisor
+'''
 import math
 x, y = eval(input())
 m, n = eval(input())
@@ -57,3 +58,4 @@ def compute(p, q):
     return math.gcd(p, q)
 gcd = compute(p, q)
 print( f'{x}/{y} + {m}/{n} = {p / gcd:.0f}/{ q / gcd:.0f}' )
+'''
